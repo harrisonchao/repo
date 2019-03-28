@@ -1,7 +1,7 @@
 <manifest>
-  <remote name = "origin" fetch="https://github.com/harrisonchao/" review="https://github.com/harrisonchao/">
-  <default revision="master" remote="origin" sync-j="4">
-  <project path="." name="pigeon">
-  <project path="." name="django_mysite">
+  <remote name = "origin" fetch="https://github.com/harrisonchao/" review="https://github.com/harrisonchao/" />
+  <default revision="master" remote="origin" sync-j="4" />
+  <project path="." name="pigeon"/>
+  <project path="." name="django_mysite"/>
 </manifest>
 
